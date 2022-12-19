@@ -1,0 +1,15 @@
+.container{
+    padding: 20px 80px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.profile-container{
+    width: 40%;
+    border-right: 1px solid lightgray;
+    padding-right: 40px;
+}
+.profile-counter{
+    width: 50%;
+}
